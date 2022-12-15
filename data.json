@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "nombre": "Angel",
+      "tarjeta": "345678",
+      "telefono": 118474645,
+      "dinero": 5000,
+      "movimientos": []
+    },
+    {
+      "id": 2,
+      "nombre": "Roberto",
+      "tarjeta": "98765",
+      "telefono": 113674189,
+      "dinero": 7000,
+      "movimientos": []
+    },
+    {
+      "id": 3,
+      "nombre": "Alexis",
+      "tarjeta": "123456",
+      "telefono": 112575500,
+      "dinero": 3000,
+      "movimientos": []
+    }
+  ]

@@ -1,24 +1,24 @@
 body {
     text-align: center;
-    color: white;
+    color: rgb(255, 255, 255);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: rgb(0, 0, 0);
   }
   
   h2 {
     font-size: 60px;
-    color: white;
+    color: rgb(255, 255, 255);
     margin: 0;
   }
   
   h3 {
     margin: 0;
     font-size: 30px;
-    color: white;
+    color: rgb(255, 255, 255);
   }
   
   span {
-    color: antiquewhite;
+    color: rgb(250, 235, 215);
     font-weight: 600;
   }
   
